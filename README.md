@@ -1,32 +1,47 @@
-👋 Hi, I'm [Your Name]!
-🚀 DevOps Engineer | Cloud Enthusiast | Automation Fanatic 🚀
+<h1>👋 Hi, I'm [Your Name]!</h1>
 
-🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with AWS, Kubernetes, Docker, Terraform, and more! I love solving complex problems, automating workflows, and continuously improving systems.
+<p>🚀 <strong>DevOps Engineer | Cloud Enthusiast | Automation Fanatic</strong> 🚀</p>
 
-🔧 Technologies & Tools
-☁️ Cloud Platforms: AWS, GCP
-📦 Containerization: Docker, Kubernetes
-📜 Infrastructure as Code: Terraform, CloudFormation
-🔄 CI/CD Pipelines: GitHub Actions, AWS CodePipeline, Jenkins
-📊 Monitoring & Metrics: Prometheus, Grafana, ELK Stack
-🐍 Languages: Python, Bash, PHP
-🛠 Version Control: Git, GitHub
-📈 What I'm Currently Working On
-🌐 Building scalable cloud infrastructure with Terraform and AWS
-⚙️ Automating CI/CD workflows using GitHub Actions (Learning in Progress!)
-📊 Implementing monitoring solutions with Prometheus and Grafana
-📚 What I’m Learning Next
-🚀 Diving deeper into AWS Certified Solutions Architect (SAA-C03)
-🔒 Exploring DevSecOps practices and tools
-🤖 Expanding knowledge on GitHub Actions and CI/CD Automation
-🏗️ Key Projects
-📡 Terraform VPC Project: Built a scalable, secure VPC infrastructure on AWS using Terraform.
-🚀 Kubernetes Cluster Management: Managed and upgraded Kubernetes clusters (v1.25) to enhance performance and reliability.
-📊 Monitoring Stack with Prometheus & Grafana: Implemented a full monitoring solution for real-time system metrics and alerts.
-🔗 Connect with Me
-🌐 LinkedIn
-📧 Email
-🛠️ GitHub
+<p>🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Terraform</strong>, and more! I love solving complex problems, automating workflows, and continuously improving systems.</p>
+
+<h2>🔧 Technologies & Tools</h2>
+<ul>
+  <li>☁️ <strong>Cloud Platforms:</strong> AWS, GCP</li>
+  <li>📦 <strong>Containerization:</strong> Docker, Kubernetes</li>
+  <li>📜 <strong>Infrastructure as Code:</strong> Terraform, CloudFormation</li>
+  <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, AWS CodePipeline, Jenkins</li>
+  <li>📊 <strong>Monitoring & Metrics:</strong> Prometheus, Grafana, ELK Stack</li>
+  <li>🐍 <strong>Languages:</strong> Python, Bash, PHP</li>
+  <li>🛠 <strong>Version Control:</strong> Git, GitHub</li>
+</ul>
+
+<h2>📈 What I'm Currently Working On</h2>
+<ul>
+  <li>🌐 Building scalable cloud infrastructure with <strong>Terraform</strong> and <strong>AWS</strong></li>
+  <li>⚙️ Automating CI/CD workflows using <strong>GitHub Actions</strong> (Learning in Progress!)</li>
+  <li>📊 Implementing monitoring solutions with <strong>Prometheus</strong> and <strong>Grafana</strong></li>
+</ul>
+
+<h2>📚 What I’m Learning Next</h2>
+<ul>
+  <li>🚀 Diving deeper into <strong>AWS Certified Solutions Architect (SAA-C03)</strong></li>
+  <li>🔒 Exploring <strong>DevSecOps</strong> practices and tools</li>
+  <li>🤖 Expanding knowledge on <strong>GitHub Actions</strong> and <strong>CI/CD Automation</strong></li>
+</ul>
+
+<h3>🏗️ Key Projects</h3>
+<ul>
+  <li>📡 <strong><a href="#">Terraform VPC Project</a>:</strong> Built a scalable, secure VPC infrastructure on AWS using Terraform.</li>
+  <li>🚀 <strong><a href="#">Kubernetes Cluster Management</a>:</strong> Managed and upgraded Kubernetes clusters (v1.25) to enhance performance and reliability.</li>
+  <li>📊 <strong><a href="#">Monitoring Stack with Prometheus & Grafana</a>:</strong> Implemented a full monitoring solution for real-time system metrics and alerts.</li>
+</ul>
+
+<h2>🔗 Connect with Me</h2>
+<ul>
+  <li>🌐 <a href="#">LinkedIn</a></li>
+  <li>📧 <a href="#">Email</a></li>
+  <li>🛠️ <a href="#">GitHub</a></li>
+</ul>
 
 <img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsMzg0cmlwaGNwcnR0Y3c0aGJ0aHo5MWZ6MnFieGFvazg0OWUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
 
