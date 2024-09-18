@@ -45,10 +45,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <h2>🔧 Technologies & Tools</h2>
 <ul>
   <li>☁️ <strong>Cloud Platforms:</strong> AWS, GCP</li>
@@ -87,40 +83,5 @@
   <li>📧 <a href="#">Email</a></li>
   <li>🛠️ <a href="#">GitHub</a></li>
 </ul>
-
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsMzg0cmlwaGNwcnR0Y3c0aGJ0aHo5MWZ6MnFieGFvazg0OWUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="adanabdillahi30@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aabdillahi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
