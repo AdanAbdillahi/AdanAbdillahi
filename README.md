@@ -4,7 +4,11 @@
 
 <p>🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Terraform</strong>, and more! I love solving complex problems, automating workflows, and continuously improving systems.</p>
 
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsMzg0cmlwaGNwcnR0Y3c0aGJ0aHo5MWZ6MnFieGFvazg0OWUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
+<p align="left"></p>
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsMzg0cmlwaGNwcnR0Y3c0aGJ0aHo5MWZ6MnFieGFvazg0OWUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
 
 ###
 
@@ -41,6 +45,9 @@
 
 ###
 
+<p align="left">Hello World!!</p>
+
+###
 
 <h2>🔧 Technologies & Tools</h2>
 <ul>
