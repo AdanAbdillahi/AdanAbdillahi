@@ -1,6 +1,32 @@
-<h2 align="left">👋 Hi, I'm [Your Name]!<br>🚀 DevOps Engineer | Cloud Enthusiast | Automation Fanatic 🚀<br><br>🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with AWS, Kubernetes, Docker, Terraform, and more! I love solving complex problems, automating workflows, and continuously improving systems.<br><br>🔧 Technologies & Tools<br>☁️ Cloud Platforms: AWS, GCP<br>📦 Containerization: Docker, Kubernetes<br>📜 Infrastructure as Code: Terraform, CloudFormation<br>🔄 CI/CD Pipelines: GitHub Actions, AWS CodePipeline, Jenkins<br>📊 Monitoring & Metrics: Prometheus, Grafana, ELK Stack<br>🐍 Languages: Python, Bash, PHP<br>🛠 Version Control: Git, GitHub<br>📈 What I'm Currently Working On<br>🌐 Building scalable cloud infrastructure with Terraform and AWS<br>⚙️ Automating CI/CD workflows using GitHub Actions (Learning in Progress!)<br>📊 Implementing monitoring solutions with Prometheus and Grafana<br>📚 What I’m Learning Next<br>🚀 Diving deeper into AWS Certified Solutions Architect (SAA-C03)<br>🔒 Exploring DevSecOps practices and tools<br>🤖 Expanding knowledge on GitHub Actions and CI/CD Automation<br>🏗️ Key Projects<br>📡 Terraform VPC Project: Built a scalable, secure VPC infrastructure on AWS using Terraform.<br>🚀 Kubernetes Cluster Management: Managed and upgraded Kubernetes clusters (v1.25) to enhance performance and reliability.<br>📊 Monitoring Stack with Prometheus & Grafana: Implemented a full monitoring solution for real-time system metrics and alerts.<br>🔗 Connect with Me<br>🌐 LinkedIn<br>📧 Email<br>🛠️ GitHub</h2>
+👋 Hi, I'm [Your Name]!
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Fanatic 🚀
 
-###
+🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with AWS, Kubernetes, Docker, Terraform, and more! I love solving complex problems, automating workflows, and continuously improving systems.
+
+🔧 Technologies & Tools
+☁️ Cloud Platforms: AWS, GCP
+📦 Containerization: Docker, Kubernetes
+📜 Infrastructure as Code: Terraform, CloudFormation
+🔄 CI/CD Pipelines: GitHub Actions, AWS CodePipeline, Jenkins
+📊 Monitoring & Metrics: Prometheus, Grafana, ELK Stack
+🐍 Languages: Python, Bash, PHP
+🛠 Version Control: Git, GitHub
+📈 What I'm Currently Working On
+🌐 Building scalable cloud infrastructure with Terraform and AWS
+⚙️ Automating CI/CD workflows using GitHub Actions (Learning in Progress!)
+📊 Implementing monitoring solutions with Prometheus and Grafana
+📚 What I’m Learning Next
+🚀 Diving deeper into AWS Certified Solutions Architect (SAA-C03)
+🔒 Exploring DevSecOps practices and tools
+🤖 Expanding knowledge on GitHub Actions and CI/CD Automation
+🏗️ Key Projects
+📡 Terraform VPC Project: Built a scalable, secure VPC infrastructure on AWS using Terraform.
+🚀 Kubernetes Cluster Management: Managed and upgraded Kubernetes clusters (v1.25) to enhance performance and reliability.
+📊 Monitoring Stack with Prometheus & Grafana: Implemented a full monitoring solution for real-time system metrics and alerts.
+🔗 Connect with Me
+🌐 LinkedIn
+📧 Email
+🛠️ GitHub
 
 <img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlsMzg0cmlwaGNwcnR0Y3c0aGJ0aHo5MWZ6MnFieGFvazg0OWUxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp"  />
 
