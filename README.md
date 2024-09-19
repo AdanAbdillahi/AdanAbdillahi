@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm [Your Name]!</h1>
+<h1>👋 Hi, I'm [Adan Abdillahi]!</h1>
 
 <p>🚀 <strong>DevOps Engineer | Cloud Enthusiast | Automation Fanatic</strong> 🚀</p>
 
@@ -52,7 +52,7 @@
   <li>📜 <strong>Infrastructure as Code:</strong> Terraform, CloudFormation</li>
   <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, AWS CodePipeline, Jenkins</li>
   <li>📊 <strong>Monitoring & Metrics:</strong> Prometheus, Grafana, ELK Stack</li>
-  <li>🐍 <strong>Languages:</strong> Python, Bash, PHP</li>
+  <li>🐍 <strong>Languages:</strong> Java Bash</li>
   <li>🛠 <strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 
