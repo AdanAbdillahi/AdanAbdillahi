@@ -67,7 +67,7 @@
 
 <h2>📚 What I’m Learning Next</h2>
 <ul>
-  <li>🚀 Diving deeper into <strong> Currently learning Python to enhance my scripting and automation skills, focusing on DevOps-related tasks </strong></li>
+  <li>🚀 Diving deeper into <strong> learning Python to enhance my scripting and automation skills, focusing on DevOps-related tasks </strong></li>
   <li>🔒 Exploring <strong>DevSecOps</strong> practices and tools</li>
   <li>🤖 Expanding knowledge on <strong>GitHub Actions</strong> and <strong>CI/CD Automation</strong></li>
 </ul>
