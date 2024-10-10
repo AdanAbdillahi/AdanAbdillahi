@@ -56,7 +56,7 @@
   <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, Jenkins</li>
   <li>📂 <strong>GitOps:</strong> ArgoCD</li>
   <li>📊 <strong>Monitoring & Metrics:</strong> Prometheus, Grafana, Dynatrace</li>
-  <li>🐍 <strong>Languages:</strong> Python, Java (basic)</li>
+  <li>🐍 <strong>Languages:</strong> Python, Linux, Java (basic)</li>
   <li>🛠 <strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 
