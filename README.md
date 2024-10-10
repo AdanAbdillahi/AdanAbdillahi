@@ -51,9 +51,10 @@
   <li>☁️ <strong>Cloud Platforms:</strong> AWS Certified Solution Architect Associate, GCP Cloud Engineer Associate</li>
   <li>📦 <strong>Containerization:</strong> Docker, Kubernetes</li>
   <li>📜 <strong>Infrastructure as Code:</strong> Terraform, CloudFormation</li>
-  <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, AWS CodePipeline, Jenkins</li>
-  <li>📊 <strong>Monitoring & Metrics:</strong> Prometheus, Grafana, ELK Stack</li>
-  <li>🐍 <strong>Languages:</strong> Java Bash</li>
+  <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, Jenkins</li>
+  <li>📂 <strong>GitOps:</strong> ArgoCD</li>
+  <li>📊 <strong>Monitoring & Metrics:</strong> Prometheus, Grafana, Dynatrace</li>
+  <li>🐍 <strong>Languages:</strong> Python, Java (basic)</li>
   <li>🛠 <strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 
@@ -66,7 +67,7 @@
 
 <h2>📚 What I’m Learning Next</h2>
 <ul>
-  <li>🚀 Diving deeper into <strong>AWS Certified Solutions Architect (SAA-C03)</strong></li>
+  <li>🚀 Diving deeper into <strong> Currently learning Python to enhance my scripting and automation skills, focusing on DevOps-related tasks </strong></li>
   <li>🔒 Exploring <strong>DevSecOps</strong> practices and tools</li>
   <li>🤖 Expanding knowledge on <strong>GitHub Actions</strong> and <strong>CI/CD Automation</strong></li>
 </ul>
