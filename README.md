@@ -48,7 +48,7 @@
 
 <h2>🔧 Technologies & Tools</h2>
 <ul>
-  <li>☁️ <strong>Cloud Platforms:</strong> AWS, GCP</li>
+  <li>☁️ <strong>Cloud Platforms:</strong> AWS Certified Solution Architect Associate, GCP Cloud Engineer Associate</li>
   <li>📦 <strong>Containerization:</strong> Docker, Kubernetes</li>
   <li>📜 <strong>Infrastructure as Code:</strong> Terraform, CloudFormation</li>
   <li>🔄 <strong>CI/CD Pipelines:</strong> GitHub Actions, AWS CodePipeline, Jenkins</li>
