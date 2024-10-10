@@ -1,6 +1,7 @@
 <h1>👋 Hi, I'm Adan Abdillahi! </h1> (under construction)
 
-<p>🚀 <strong>DevOps Engineer | Cloud Enthusiast | Automation Fanatic</strong> 🚀</p>
+<p>🚀 <strong> Certified AWS and GCP DevOps Engineer | Cloud Enthusiast | Automation Fanatic</strong> 🚀</p>
+
 
 <p>🌍 Passionate about building scalable, automated cloud infrastructure using the latest DevOps practices. I have hands-on experience with <strong>AWS</strong>, <strong>Kubernetes</strong>, <strong>Docker</strong>, <strong>Terraform</strong>, and more! I love solving complex problems, automating workflows, and continuously improving systems.</p>
 
