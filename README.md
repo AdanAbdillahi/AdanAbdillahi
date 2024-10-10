@@ -26,6 +26,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
   <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="30" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
